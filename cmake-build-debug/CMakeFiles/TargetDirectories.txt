@@ -1,0 +1,3 @@
+/home/thiago/Fumec/ED2/MatrizEsparsa/cmake-build-debug/CMakeFiles/MatrizEsparsa.dir
+/home/thiago/Fumec/ED2/MatrizEsparsa/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/thiago/Fumec/ED2/MatrizEsparsa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
